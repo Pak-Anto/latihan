@@ -3,3 +3,4 @@
 3. Belajar CSS
 4. Belajar ke Pak Dika
 5. Belajar VS Code
+6. Belajar LARAVEL
