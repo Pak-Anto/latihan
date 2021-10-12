@@ -1,2 +1,2 @@
 # latihan
-Latihan Web
+Repository Latihan Web
